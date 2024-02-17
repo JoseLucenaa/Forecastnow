@@ -1,0 +1,15 @@
+@media screen and (max-width: 768px){
+    nav{
+        display: none
+    }
+
+    .logos{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 20px
+    }
+
+    input {
+        font-size: 13px
+    }
+};
